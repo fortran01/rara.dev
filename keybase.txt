@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/fortran01
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rara.dev
+  * I am fortran01 (https://keybase.io/fortran01) on keybase.
+  * I have a public key ASDAq43cA9c36E5l348wPMzQt6ML9ixXyViUGMEU1W9mGAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c0ab8ddc03d737e84e65df8f303cccd0b7a30bf62c57c9589418c114d56f66180a",
+      "host": "keybase.io",
+      "kid": "0120c0ab8ddc03d737e84e65df8f303cccd0b7a30bf62c57c9589418c114d56f66180a",
+      "uid": "980846d6d76704958d7476dbe495aa19",
+      "username": "fortran01"
+    },
+    "merkle_root": {
+      "ctime": 1586471586,
+      "hash": "d6664c52593eee0ea73f283abf9c93a418be3040eaf151c532f162bdb453b25b706d739cef4f2cea2b450244f8ddfaaa57421c94a27290ee98f05e897ca07012",
+      "hash_meta": "39531a309fb8ce0967cb25fffa207a098de536e246883d22eee56c5e04ce098b",
+      "seqno": 15868722
+    },
+    "service": {
+      "entropy": "jYvqDv8rAfaPGtTvhWgjt9se",
+      "hostname": "rara.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1586471598,
+  "expire_in": 504576000,
+  "prev": "5a5c18afc375d71d2f713bfed7cfd06f2a3e2c896367503419f3532717468d8b",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwKuN3APXN+hOZd+PMDzM0LejC/YsV8lYlBjBFNVvZhgKp3BheWxvYWTESpcCFMQgWlwYr8N11x0vcTv+18/Qbyo+LIljZ1A0GfNTJxdGjYvEIPPQeG8CE6qqLhP2S/3ml2a+VYvD/1prm8ie8QgvHo9yAgHCo3NpZ8RAcZDI8UBWfoI7jTCK81Y96nzHt8KMIAgRDDl7wa2yPnboJA4pCEbPBn2hoi/x/V7hiTfE4Zq2MwkcWQfE355LA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICc78VnMGzE09hFCPjbqjxrxU670seJOjoF6d6jShi5qo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fortran01
+
+==================================================================
